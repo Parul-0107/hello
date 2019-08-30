@@ -12,6 +12,7 @@ int main(int argc, char **argv) {
 
   printf("Parul Aggarwal, Halle Starns, Claire Sorenson and Sara Qudus!\n");
   printf("Computer Engineering\n");
+  printf("freshmen\n");
   
   return 0;
 }
